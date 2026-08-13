@@ -1,0 +1,3 @@
+Create an insert with more 30 Pokémon. 
+If necessary, update the tables for stages, attacks, and abilities as well.
+This lasts inserts must be able to run after the initial inserts. So they must be complemetary

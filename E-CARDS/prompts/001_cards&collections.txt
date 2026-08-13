@@ -1,0 +1,31 @@
+[Action:]
+Create a script to create tables in MySQL
+
+[Context:]
+- The first table is to save pokemon TCG cards as the image
+- The second table is to save the collections set
+
+connect the tables with Foreign Key
+
+[Infos:] 
+
+Fst table: tbl_cards
+ - id
+ - hp 
+ - name
+ - type
+ - stage
+ - aditional (EX, V-Max, etc)
+ - attack
+ - hability
+ - weak
+ - resistence
+ - retreat
+ - card number in collection
+
+Scnd table: tbl_collections
+ - id
+ - name
+ - release Date
+ - total Cards
+

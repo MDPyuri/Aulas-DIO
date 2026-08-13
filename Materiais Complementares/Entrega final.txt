@@ -1,0 +1,53 @@
+Quero que a IA analise comentários de pessoas com faixa etária acima de 50 anos sobre ferramentas na versão digital de um banco para identificar as principais dificuldades de uso, elogios, facilidades, praticidades, falta de recursos e afinidade com interfaces .
+
+O resultado será usado por pelas equipes de design e logistica para apoiar na decisão de novas implementações de recursos, mudanças visuais e investimento técnico.
+
+A entrega deve conter um resumo executivo, uma tabela com os principais tópicos apresentados e sugestões para mitigação de problemas ou amplificação de vantagens.
+
+O resultado será considerado bom se for claro, organizado, baseado nos comentários fornecidos e útil para priorizar ações.
+
+
+----//----
+
+
+Contexto: Estou trabalhando com feedbacks de clientes bancários com faixa etária acima de 50 anos relacionados a ferramentas na versão digital de um banco para identificar as principais dificuldades de uso, elogios, facilidades, praticidades, falta de recursos e afinidade com interfaces.
+
+Dados disponíveis: A base contém Nome do usuário, data, idade, texto do comentário e ferramenta citada.
+
+Critérios de análise: A IA deve classificar os feedbacks por Tema, Urgência e idade e quantidade de ocorrência.
+
+Cuidados e restrições:
+
+Use apenas os dados fornecidos.
+Não invente números, causas ou conclusões.
+Não exponha dados pessoais ou sensíveis.
+Se houver informação insuficiente, indique a limitação.
+Use linguagem simples, direta e voltada para tomada de decisão.
+
+
+----//----
+
+
+Atue como analista de dados e experiência do cliente em um banco.
+
+Sua tarefa é analisar comentários de pessoas com faixa etária acima de 50 anos sobre ferramentas na versão digital de um banco para identificar as principais dificuldades de uso, elogios, facilidades, praticidades, falta de recursos e afinidade com interfaces.
+
+O resultado será usado por pelas equipes de design e logística para apoiar na decisão de novas implementações de recursos, mudanças visuais e investimento técnico.
+
+Dados disponíveis: A base contém Nome do usuário, data, idade, texto do comentário e ferramenta citada.
+
+Instruções de análise:
+
+ 1- Use apenas os dados fornecidos.
+ 2- Não invente números, causas ou conclusões.
+ 3- Não exponha dados pessoais ou sensíveis.
+ 4- Se houver informação insuficiente, indique a limitação.
+ 5- Use linguagem simples, direta e voltada para tomada de decisão.
+
+Restrições:
+
+Use apenas os dados fornecidos.
+Não invente números, causas ou conclusões.
+Não exponha dados pessoais ou sensíveis.
+Se houver informação insuficiente, indique a limitação.
+Use linguagem simples, direta e voltada para tomada de decisão.

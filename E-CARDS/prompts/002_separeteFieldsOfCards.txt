@@ -1,0 +1,9 @@
+Based on the TCG rules, create new tables to organize the data.
+
+The new tables should cover the following fields:
+- stages
+- additionals
+- attacks
+- abilities
+
+Include columns that allow the implementation of TCG logic and rules for these functions.
