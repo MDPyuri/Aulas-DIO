@@ -1,0 +1,1 @@
+# Bibliotecas Essenciais para Análise de Dados em Python
