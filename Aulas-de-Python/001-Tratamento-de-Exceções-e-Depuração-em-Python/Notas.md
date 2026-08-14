@@ -39,7 +39,7 @@ except Exception as e:
     # Código que trata a exceção
     print(f"Ocorreu um erro: {e}")
 ```
->Vide ``001_Tratamento.py``
+>Vide [001_Tratamento.py](./001_Tratamento.py)
 
 ### Bloco finally
 O bloco `finally` é opcional e é executado **independentemente** de uma exceção ter ocorrido ou não. Ele é útil para liberar recursos, como arquivos ou conexões de banco de dados, garantindo que certas ações sejam realizadas mesmo que ocorra um erro.
@@ -56,7 +56,7 @@ finally:
     # Código que será executado independentemente de uma exceção ter ocorrido ou não
     print("Execução do bloco finally")
 ```
->vide ``002_Tratamento.py``
+>vide [002_Tratamento.py](./002_Tratamento.py)
 
 ### Comando raise
 O comando `raise` é usado para **lançar** uma exceção manualmente. Ele pode ser útil para sinalizar que ocorreu uma condição de erro específica em seu código, permitindo que você crie suas próprias exceções personalizadas.
@@ -74,7 +74,7 @@ try:
 except ValueError as e:
     print("Erro capturado:", e)
 ```
->Vide ``003_Tratamento.py``
+>Vide [003_Tratamento.py](./003_Tratamento.py)
 
 ## Depuração em Python
 A depuração é o processo de identificar e corrigir erros em um programa. Python oferece várias ferramentas para depuração, incluindo o módulo `pdb`, que permite executar o código passo a passo, inspecionar variáveis e controlar o fluxo de execução.
@@ -89,7 +89,7 @@ print(f"Tentando dividir {numeros} por {divisor}")
 resultado = numeros / divisor  # Isso causará um ZeroDivisionError
 print(f"Resultado: {resultado}")
 ```
->Vide ``004_Debugging.py``
+>Vide [004_Debugging.py](./004_Debugging.py)
 
 ### Stack Trace
 Quando uma exceção ocorre, o Python gera um **stack trace**, que é uma mensagem detalhada mostrando a sequência de chamadas de função que levaram ao erro. O stack trace inclui informações sobre o tipo de exceção, a linha de código onde ocorreu e o caminho do arquivo. Analisar o stack trace é uma habilidade importante para depuração eficaz.
@@ -121,7 +121,7 @@ def soma(a, b):
 resultado = soma(3, 5)
 print("Resultado:", resultado)
 ```
->Vide ``005_Debugging.py``  
+>Vide [005_Debugging.py](./005_Debugging.py)  
 
 Alguns comandos úteis do `pdb` incluem:
 - `n` (next): Executa a próxima linha de código.
@@ -138,7 +138,7 @@ logging.info("Este é um log de informação")
 logging.warning("Este é um log de aviso")
 logging.error("Este é um log de erro")
 ```
->Vide ``006_Debugging.py``
+>Vide [006_Debugging.py](./006_Debugging.py)
 
 |Nível de Log|Uso|
 |-------------|-----|
@@ -181,7 +181,7 @@ Além de tratar exceções e depurar o código, é importante adotar práticas q
     if __name__ == '__main__':
         unittest.main()
     ```
-    >Vide ``007_Prevention.py``  
+    >Vide [007_Prevention.py](./007_Prevention.py)  
 
   
 - **Boas Práticas de Codificação**: Siga convenções de codificação, escreva código limpo e documentado, e use ferramentas de análise estática para identificar problemas potenciais.
