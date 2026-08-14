@@ -4,7 +4,12 @@ url = "https://raw.githubusercontent.com/datasciencedojo/datasets/master/titanic
 
 # Carregando o dataset
 df = pd.read_csv(url)
+
 # Exibindo as primeiras linhas do DataFrame
 print(df.head())
 
-df.info()  # Verificando informações do DataFrame, incluindo valores ausentes
+# Informações gerais
+df.info()
+
+# Contando valores ausentes por coluna
+print(df.isnull().sum())
