@@ -9,3 +9,7 @@
 - [Boas Práticas, teste e Automação](./Aulas-de-Python/006-Boas-Praticas-teste-e-Automacao/Notas.md)
 - [Métricas de Avaliação](./Aulas-de-Python/007-Metricas-de-Avaliacao/Notas.md)
 - [Projeto Final](./Aulas-de-Python/008-Projeto-Final/Notas.md)
+
+## Cibersegurança 🛡️
+- [Princípios da Cibersegurança](./Aulas-de-Ciberseguranca/001-Principios-da-Ciberseguranca/Notas.md)
+- [Conceitos e Práticas de Sistemas Operacionais e Máquinas Virtuais](./Aulas-de-Ciberseguranca/002-Conceitos-e-Praticas-de-OSs-e-VMs/Notas.md)
