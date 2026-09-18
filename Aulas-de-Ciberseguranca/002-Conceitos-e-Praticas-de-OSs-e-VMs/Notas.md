@@ -116,3 +116,24 @@ O nível de risco da vulnerabilidade é definido pelo Common Vulnerability Scori
 
 ### Conclusão
 Há uma gama imensa de variações de SO's baseadas em Linux, o que permite a sua utilização de forma muito ampla na cibersegurança.
+
+# Virtual Box
+[Link para download do VirtualBox](https://www.virtualbox.org/wiki/Downloads)
+
+## Lista de Máquinas
+- Windows XP
+- Windows 7
+- Windows 10
+- Kali Linux
+
+## Sobre o Kali Linux 
+O Kali Linux é uma distribuição do sistema operacional Linux desenvolvida especialmente para profissionais e entusiastas da cibersegurança. Reconhecido mundialmente, ele reúne uma vasta coleção de ferramentas voltadas para testes de penetração, análise forense digital, auditoria de redes e exploração de vulnerabilidades.
+
+### Por que é relevante?  
+Em um cenário onde ataques cibernéticos se tornam cada vez mais sofisticados, o Kali Linux surge como um ambiente robusto e confiável para simular ataques e fortalecer defesas. Seu uso não se limita a especialistas: estudantes e pesquisadores também o utilizam para aprender técnicas de segurança ofensiva e defensiva.
+
+### Principais características
+- Mais de 600 ferramentas pré-instaladas para diferentes áreas da segurança.
+- Interface flexível e adaptável a diversos dispositivos (PCs, servidores, até smartphones).
+- Comunidade ativa que constantemente atualiza e aprimora os recursos.
+- Foco em ética: o uso responsável é voltado para auditoria e proteção, nunca para atividades maliciosas.

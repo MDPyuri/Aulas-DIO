@@ -13,3 +13,4 @@
 ## Cibersegurança 🛡️
 - [Princípios da Cibersegurança](./Aulas-de-Ciberseguranca/001-Principios-da-Ciberseguranca/Notas.md)
 - [Conceitos e Práticas de Sistemas Operacionais e Máquinas Virtuais](./Aulas-de-Ciberseguranca/002-Conceitos-e-Praticas-de-OSs-e-VMs/Notas.md)
+- [OSINT](./Aulas-de-Ciberseguranca/003-OSINT/)
