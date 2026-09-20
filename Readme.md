@@ -15,3 +15,4 @@
 - [Conceitos e Práticas de Sistemas Operacionais e Máquinas Virtuais](./Aulas-de-Ciberseguranca/002-Conceitos-e-Praticas-de-OSs-e-VMs/Notas.md)
 - [OSINT](./Aulas-de-Ciberseguranca/003-OSINT/)
 - [Engenharia Social](./Aulas-de-Ciberseguranca/004-Engenharia-Social/Notas.md)
+- [DevSecOps](./Aulas-de-Ciberseguranca/005-DevSecOps/Notas.md)
